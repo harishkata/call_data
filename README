@@ -1,0 +1,25 @@
+#install packages
+#pip install django djangorestframework
+
+
+#open folder call_data in command prompt
+#cd call_data
+
+
+# run the application
+#python manage.py runserver
+
+
+#access the api end point with below url
+#http://127.0.0.1:8000/api/call_data/?name=Shiney
+#http://127.0.0.1:8000/api/call_data/?msdin=+15551234567
+
+#response is below
+
+# {
+#     "+15551234567": {
+#         "Customer ID": 2,
+#         "Customer Name": "Shiney",
+#         "Duration (minutes)": 637
+#     }
+# }

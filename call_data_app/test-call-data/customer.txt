@@ -1,0 +1,3 @@
+Customer ID: Customer: MSISDN
+1:Dhanu:+19876543210
+2:Shiney:+15551234567
